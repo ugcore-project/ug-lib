@@ -1,0 +1,70 @@
+{
+  "labels": {
+    "ok": "OK",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "back": "Back",
+    "close": "Close",
+    "submit": "Submit"
+  },
+  "duration": {
+    "day": "{count} day",
+    "days": "{count} days",
+    "hour": "{count} hour",
+    "hours": "{count} hours",
+    "minute": "{count} minute",
+    "minutes": "{count} minutes",
+    "second": "{count} second",
+    "seconds": "{count} seconds"
+  },
+  "settings": {
+    "title": "UI settings",
+    "done": "Done",
+    "reset": "Reset all",
+    "default": "Server default",
+    "custom": "Custom",
+    "appearance": "Appearance",
+    "elements": "Elements",
+    "preview": "Preview",
+    "position": "Position",
+    "style": "Style",
+    "disabled": "UI settings are turned off on this server.",
+    "previewNotify": "Notifications appear here.",
+    "previewTextUI": "Prompts appear here",
+    "mode": "Theme",
+    "accent": "Accent color",
+    "scale": "Size",
+    "notify": "Notifications",
+    "textUI": "Prompts",
+    "progress": "Progress bars",
+    "menu": "Menus",
+    "context": "Context menus"
+  },
+  "modes": {
+    "dark": "Dark",
+    "light": "Light"
+  },
+  "positions": {
+    "top-left": "Top left",
+    "top": "Top",
+    "top-right": "Top right",
+    "center-left": "Center left",
+    "center": "Center",
+    "center-right": "Center right",
+    "bottom-left": "Bottom left",
+    "bottom": "Bottom",
+    "bottom-right": "Bottom right"
+  },
+  "styles": {
+    "toast": "Toast",
+    "compact": "Compact",
+    "banner": "Banner",
+    "pill": "Pill",
+    "minimal": "Minimal",
+    "keybind": "Keybind",
+    "card": "Card",
+    "bar": "Bar",
+    "circle": "Circle",
+    "ring": "Ring"
+  }
+}

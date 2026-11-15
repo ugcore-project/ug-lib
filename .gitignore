@@ -1,0 +1,22 @@
+# Lua build output
+luac.out
+
+# Archives
+*.zip
+*.tar.gz
+
+# Editors
+.idea
+.DS_Store
+
+# ug-lib owner config, generated on first boot
+/config/*
+!/config/.gitkeep
+
+# Web app: dependencies and build output. CI builds web/dist for releases.
+/web/node_modules/
+/web/dist/
+/web/dist-ssr/
+/web/*.local
+/web/coverage/
+*.log
